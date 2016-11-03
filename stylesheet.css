@@ -8,6 +8,7 @@
     position:relative;
     left:127px;
     top:-70px;
+    width:1140px;
 }
 
 .subheader{
@@ -16,6 +17,7 @@
     top:-163px;
     font-family: 'Pacifico', cursive;
     padding: 0px;
+    width: 800px;
 }
 
 /* CSS for Nav */
@@ -26,6 +28,7 @@
     left: 219px;
     top:-130px;
     padding: 0px;
+    width: 950px;
 }
 
 li {
@@ -130,6 +133,7 @@ a:hover{
     top: -50px;
     left: 450px;
     color: #d098f4;
+    width: 600px;
 }
 
 .icon img{
