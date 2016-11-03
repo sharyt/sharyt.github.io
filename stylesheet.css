@@ -1,0 +1,139 @@
+/* Css for header and sub header */
+
+.header{
+    margin-bottom: 0px;
+    padding: 0px;
+    font-family: 'Pacifico', cursive;
+    font-size: 50px;
+    position:relative;
+    left:127px;
+    top:-70px;
+}
+
+.subheader{
+    position:relative;
+    left:425px;
+    top:-163px;
+    font-family: 'Pacifico', cursive;
+    padding: 0px;
+}
+
+/* CSS for Nav */
+
+.nav{
+    font-family: 'Amatic SC', cursive;
+    position: relative;
+    left: 219px;
+    top:-130px;
+    padding: 0px;
+}
+
+li {
+    list-style-type: none;
+    display: inline-block;
+}
+    
+li a { 
+    text-decoration: none;
+    font-size: 43px;
+    padding-right: 18px;
+    color: #D098F4;
+}
+
+a:visited{ 
+    color: #F498BC;
+}
+
+a:hover{
+    color:#98f4d0 ;
+}
+
+/* CSS for main map */
+
+.map{
+    position:relative;
+    top:-130px;
+}
+
+/* CSS for the location of the pins */
+
+.us{
+    width: 27px;
+    position:relative;
+    top: -560px;
+    left: 270px;
+    background-color: transparent;
+}
+
+.brazil{
+    width: 27px;
+    position:relative;
+    top: -360px;
+    left: 405px;
+    background-color: transparent;
+}
+
+.morocco{
+    width: 27px;
+    position:relative;
+    top: -500px;
+    left: 510px;
+    background-color: transparent;
+}
+
+.france{
+    width: 27px;
+    position:relative;
+    top: -570px;
+    left: 511px;
+    background-color: transparent;
+}
+
+.uk{
+    width: 27px;
+    position:relative;
+    top: -600px;
+    left: 465px;
+    background-color: transparent;
+}
+
+.denmark{
+    width: 27px;
+    position:relative;
+    top: -615px;
+    left: 470px;
+    background-color: transparent;
+}
+
+.italy{
+    width: 27px;
+    position:relative;
+    top: -550px;
+    left: 455px;
+    background-color: transparent;
+}
+
+.greece{
+    width: 27px;
+    position:relative;
+    top: -540px;
+    left: 450px;
+    background-color: transparent;
+}
+
+/* CSS for the footer */
+
+.footer{
+    font-family: 'Pacifico', cursive;
+    font-size: 18px;
+    position:relative;
+    top: -50px;
+    left: 450px;
+    color: #d098f4;
+}
+
+.icon img{
+     width: 60px;
+     position: relative;
+     left:1200px;
+}
