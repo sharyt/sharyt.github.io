@@ -1,7 +1,6 @@
 /* Css for header and sub header */
 
 .header{
-    margin-bottom: 0px;
     padding: 0px;
     font-family: 'Pacifico', cursive;
     font-size: 50px;
@@ -25,7 +24,7 @@
 .nav{
     font-family: 'Amatic SC', cursive;
     position: relative;
-    left: 219px;
+    left: 185px;
     top:-130px;
     padding: 0px;
     width: 950px;
@@ -84,19 +83,27 @@ a:hover{
     background-color: transparent;
 }
 
+.spain{
+    width: 27px;
+    position:relative;
+    top: -547px;
+    left: 485px;
+    background-color: transparent;
+}
+
 .france{
     width: 27px;
     position:relative;
-    top: -570px;
-    left: 511px;
+    top: -573px;
+    left: 480px;
     background-color: transparent;
 }
 
 .uk{
     width: 27px;
     position:relative;
-    top: -600px;
-    left: 465px;
+    top: -610px;
+    left: 430px;
     background-color: transparent;
 }
 
@@ -104,7 +111,7 @@ a:hover{
     width: 27px;
     position:relative;
     top: -615px;
-    left: 470px;
+    left: 438px;
     background-color: transparent;
 }
 
@@ -112,7 +119,7 @@ a:hover{
     width: 27px;
     position:relative;
     top: -550px;
-    left: 455px;
+    left: 425px;
     background-color: transparent;
 }
 
@@ -120,7 +127,7 @@ a:hover{
     width: 27px;
     position:relative;
     top: -540px;
-    left: 450px;
+    left: 420px;
     background-color: transparent;
 }
 
