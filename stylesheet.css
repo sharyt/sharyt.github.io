@@ -13,77 +13,7 @@
     width:1140px;
 }
 
-#us-header{
-    position:relative;
-    left:348px;
-    top:-70px;
-    width:700px;
-}
 
-#brazil-header{
-    position:relative;
-    left:515px;
-    top:-70px;
-    width:700px;
-}
-
-#morocco-header{
-    position:relative;
-    left:470px;
-    top:-70px;
-    width:700px;
-}
-
-#spain-header{
-    position:relative;
-    left:510px;
-    top:-70px;
-    width:700px;
-}
-
-#france-header{
-    position:relative;
-    left:515px;
-    top:-70px;
-    width:700px;
-}
-
-#uk-header{
-    position:relative;
-    left:317px;
-    top:-70px;
-    width:700px;
-}
-
-#denmark-header{
-    position:relative;
-    left:465px;
-    top:-70px;
-    width:700px;
-}
-
-#italy-header{
-    position:relative;
-    left:565px;
-    top:-70px;
-    width:700px;
-}
-
-#greece-header{
-    position:relative;
-    left:515px;
-    top:-70px;
-    width:700px;
-}
-
-.subheader{
-    position:relative;
-    left:425px;
-    top:-163px;
-    font-family: 'Pacifico', cursive;
-    padding: 0px;
-    width: 800px;
-}
 
 /* CSS for Nav */
 
@@ -115,6 +45,8 @@ a:visited{
 a:hover{
     color:#98f4d0 ;
 }
+
+
 
 /* CSS for main map */
 
@@ -197,7 +129,43 @@ a:hover{
     background-color: transparent;
 }
 
-/* Spain Country Page Styling - Intro & Pictures */
+
+
+/* US Country Page Styling */
+
+#us-header{
+    position:relative;
+    left:348px;
+    top:-70px;
+    width:700px;
+}
+
+/* Brazil Country Page Styling */
+
+#brazil-header{
+    position:relative;
+    left:515px;
+    top:-70px;
+    width:700px;
+}
+
+/* Morocco Country Page Styling */
+
+#morocco-header{
+    position:relative;
+    left:470px;
+    top:-70px;
+    width:700px;
+}
+
+/* Spain Country Page Styling */
+
+#spain-header{
+    position:relative;
+    left:510px;
+    top:-70px;
+    width:700px;
+}
 
 #spain-content{
     position: relative;
@@ -277,6 +245,52 @@ a:hover{
     margin-bottom: 5px;
     margin-top: 0px;
 }
+
+/* France Country Page Styling */
+
+#france-header{
+    position:relative;
+    left:515px;
+    top:-70px;
+    width:700px;
+}
+
+/* UK Country Page Styling */
+
+#uk-header{
+    position:relative;
+    left:317px;
+    top:-70px;
+    width:700px;
+}
+
+/* Denmark Country Page Styling */
+
+#denmark-header{
+    position:relative;
+    left:465px;
+    top:-70px;
+    width:700px;
+}
+
+/* Italy Country Page Styling */
+
+#italy-header{
+    position:relative;
+    left:565px;
+    top:-70px;
+    width:700px;
+}
+
+/* Greece Country Page Styling */
+
+#greece-header{
+    position:relative;
+    left:515px;
+    top:-70px;
+    width:700px;
+}
+
 
 
 /* CSS for the footer */
