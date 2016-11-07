@@ -1,13 +1,79 @@
-/* Css for header and sub header */
+/* Css for headers and sub header */
 
 .header{
     padding: 0px;
     font-family: 'Pacifico', cursive;
     font-size: 50px;
+}
+
+#main-header{
     position:relative;
     left:127px;
     top:-70px;
     width:1140px;
+}
+
+#us-header{
+    position:relative;
+    left:348px;
+    top:-70px;
+    width:700px;
+}
+
+#brazil-header{
+    position:relative;
+    left:515px;
+    top:-70px;
+    width:700px;
+}
+
+#morocco-header{
+    position:relative;
+    left:470px;
+    top:-70px;
+    width:700px;
+}
+
+#spain-header{
+    position:relative;
+    left:510px;
+    top:-70px;
+    width:700px;
+}
+
+#france-header{
+    position:relative;
+    left:515px;
+    top:-70px;
+    width:700px;
+}
+
+#uk-header{
+    position:relative;
+    left:317px;
+    top:-70px;
+    width:700px;
+}
+
+#denmark-header{
+    position:relative;
+    left:465px;
+    top:-70px;
+    width:700px;
+}
+
+#italy-header{
+    position:relative;
+    left:565px;
+    top:-70px;
+    width:700px;
+}
+
+#greece-header{
+    position:relative;
+    left:515px;
+    top:-70px;
+    width:700px;
 }
 
 .subheader{
