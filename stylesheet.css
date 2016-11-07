@@ -197,6 +197,88 @@ a:hover{
     background-color: transparent;
 }
 
+/* Spain Country Page Styling - Intro & Pictures */
+
+#spain-content{
+    position: relative;
+    top: -100px;
+}
+
+#spain-intro{
+    font-family: 'Amatic SC', cursive;
+    display: inline-block;
+    margin-left: 0px;
+    margin-bottom: 5px;
+    margin-right:5px;
+    width: 200px;
+}
+
+#barcelona-1{
+    width: 501px;
+    height: 415px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom: 0px;
+}
+
+#barcelona-2{
+    width: 501px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+#barcelona-3{
+    width: 1220px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#barcelona-4{
+    width: 605px;
+    height: 503px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#barcelona-5{
+    width: 605px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#barcelona-6{
+    width: 680px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#barcelona-7{
+    width: 531px;
+    height: 508px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+
 /* CSS for the footer */
 
 .footer{
@@ -204,7 +286,7 @@ a:hover{
     font-size: 18px;
     position:relative;
     top: -50px;
-    left: 450px;
+    left: 375px;
     color: #d098f4;
     width: 600px;
 }
