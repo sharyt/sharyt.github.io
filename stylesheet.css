@@ -1,5 +1,8 @@
 /* Css for headers and sub header */
 
+#whole-site{
+    text-align: center;
+}
 .header{
     padding: 0px;
     font-family: 'Pacifico', cursive;
@@ -8,7 +11,7 @@
 
 #main-header{
     position:relative;
-    left:127px;
+    left:370px;
     top:-70px;
     width:1140px;
 }
@@ -20,7 +23,7 @@
 .nav{
     font-family: 'Amatic SC', cursive;
     position: relative;
-    left: 185px;
+    left: 450px;
     top:-130px;
     padding: 0px;
     width: 950px;
@@ -176,7 +179,7 @@ a:hover{
     font-family: 'Amatic SC', cursive;
     display: inline-block;
     margin-left: 0px;
-    margin-bottom: 5px;
+    margin-bottom: -10px;
     margin-right:5px;
     width: 200px;
 }
@@ -308,6 +311,6 @@ a:hover{
 .icon img{
      width: 60px;
      position: relative;
-     left:1200px;
+     left:800px;
      margin-bottom: 0px;
 }
