@@ -1,19 +1,22 @@
 /* Css for headers and sub header */
 
 #whole-site{
-    text-align: center;
+    position: relative;
+    top:-70px;
+    left:320px;
+    width:1280px;
+    height:1300px;
 }
 .header{
-    padding: 0px;
     font-family: 'Pacifico', cursive;
     font-size: 50px;
 }
 
 #main-header{
-    position:relative;
-    left:370px;
-    top:-70px;
-    width:1140px;
+    position:absolute;
+    left:115px;
+    top:0px;
+    width:1280px;
 }
 
 
@@ -22,11 +25,11 @@
 
 .nav{
     font-family: 'Amatic SC', cursive;
-    position: relative;
-    left: 450px;
-    top:-130px;
+    position: absolute;
+    left: 165px;
+    top:220px;
     padding: 0px;
-    width: 950px;
+    width: 940px;
 }
 
 li {
@@ -54,81 +57,81 @@ a:hover{
 /* CSS for main map */
 
 .map{
-    position:relative;
-    top:-130px;
+    position:absolute;
+    top:350px;
 }
 
 /* CSS for the location of the pins */
 
 .us{
     width: 27px;
-    position:relative;
-    top: -560px;
+    position:absolute;
+    top: 590px;
     left: 270px;
     background-color: transparent;
 }
 
 .brazil{
     width: 27px;
-    position:relative;
-    top: -360px;
-    left: 405px;
+    position:absolute;
+    top: 770px;
+    left: 440px;
     background-color: transparent;
 }
 
 .morocco{
     width: 27px;
-    position:relative;
-    top: -500px;
-    left: 510px;
+    position:absolute;
+    top: 630px;
+    left: 570px;
     background-color: transparent;
 }
 
 .spain{
     width: 27px;
-    position:relative;
-    top: -547px;
-    left: 485px;
+    position:absolute;
+    top: 587px;
+    left: 575px;
     background-color: transparent;
 }
 
 .france{
     width: 27px;
-    position:relative;
-    top: -573px;
-    left: 480px;
+    position:absolute;
+    top: 562px;
+    left: 605px;
     background-color: transparent;
 }
 
 .uk{
     width: 27px;
-    position:relative;
-    top: -610px;
-    left: 430px;
+    position:absolute;
+    top: 525px;
+    left: 585px;
     background-color: transparent;
 }
 
 .denmark{
     width: 27px;
-    position:relative;
-    top: -615px;
-    left: 438px;
+    position:absolute;
+    top: 520px;
+    left: 623px;
     background-color: transparent;
 }
 
 .italy{
     width: 27px;
-    position:relative;
-    top: -550px;
-    left: 425px;
+    position:absolute;
+    top: 580px;
+    left: 635px;
     background-color: transparent;
 }
 
 .greece{
     width: 27px;
-    position:relative;
-    top: -540px;
-    left: 420px;
+    position:absolute;
+    top: 595px;
+    left: 667px;
     background-color: transparent;
 }
 
@@ -301,16 +304,19 @@ a:hover{
 .footer{
     font-family: 'Pacifico', cursive;
     font-size: 18px;
-    position:relative;
-    top: -50px;
-    left: 375px;
+    position:absolute;
+    top: 1170px;
+    left: 410px;
     color: #d098f4;
     width: 600px;
 }
 
 .icon img{
-     width: 60px;
-     position: relative;
-     left:800px;
-     margin-bottom: 0px;
+     width: 50px;
+     position: absolute;
+     left:1200px;
+     top:1280px;
+     margin-bottom: 20px;
 }
+
+
