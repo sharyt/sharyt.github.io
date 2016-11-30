@@ -1,39 +1,29 @@
 /* Css for headers and sub header */
 
-#whole-site{
-    position: relative;
-    top:-70px;
-    left:0px;
-    max-width: 1200px;
-}
 .header{
     font-family: 'Pacifico', cursive;
     font-size: 50px;
 }
 
 #main-header{
-    position:absolute;
-    left:420px;
-    top:0px;
-    width:1050px;
+ text-align: center;
+ padding-bottom: 0;
+ width: 100%;
 }
-
 
 
 /* CSS for Nav */
 
 .nav{
     font-family: 'Amatic SC', cursive;
-    position: absolute;
-    left: 490px;
-    top:220px;
+    text-align: center;
     padding: 0px;
-    width: 940px;
 }
 
 li {
     list-style-type: none;
     display: inline-block;
+    padding-top: 0px;
 }
     
 li a { 
@@ -56,9 +46,12 @@ a:hover{
 /* CSS for main map */
 
 .map{
-    position:absolute;
-    top:350px;
-    left:350px;
+    text-align: center;
+}
+
+.pins{
+    float: none;
+    width: 100%;
 }
 
 /* CSS for the location of the pins */
@@ -66,72 +59,72 @@ a:hover{
 .us{
     width: 27px;
     position:absolute;
-    top: 590px;
-    left: 620px;
+    top: -420px;
+    left: 290px;
     background-color: transparent;
 }
 
 .brazil{
     width: 27px;
     position:absolute;
-    top: 770px;
-    left: 790px;
+    top: -230px;
+    left: 470px;
     background-color: transparent;
 }
 
 .morocco{
     width: 27px;
     position:absolute;
-    top: 630px;
-    left: 920px;
+    top: -380px;
+    left: 593px;
     background-color: transparent;
 }
 
 .spain{
     width: 27px;
     position:absolute;
-    top: 587px;
-    left: 925px;
+    top: -417px;
+    left: 603px;
     background-color: transparent;
 }
 
 .france{
     width: 27px;
     position:absolute;
-    top: 562px;
-    left: 955px;
+    top: -440px;
+    left: 630px;
     background-color: transparent;
 }
 
 .uk{
     width: 27px;
     position:absolute;
-    top: 525px;
-    left: 935px;
+    top: -470px;
+    left: 615px;
     background-color: transparent;
 }
 
 .denmark{
     width: 27px;
     position:absolute;
-    top: 520px;
-    left: 973px;
+    top: -490px;
+    left: 653px;
     background-color: transparent;
 }
 
 .italy{
     width: 27px;
     position:absolute;
-    top: 580px;
-    left: 985px;
+    top: -420px;
+    left: 670px;
     background-color: transparent;
 }
 
 .greece{
     width: 27px;
     position:absolute;
-    top: 595px;
-    left: 1017px;
+    top: -410px;
+    left: 695px;
     background-color: transparent;
 }
 
@@ -167,15 +160,11 @@ a:hover{
 /* Spain Country Page Styling */
 
 #spain-header{
-    position:relative;
-    left:510px;
-    top:-70px;
-    width:700px;
+    text-align: center;
 }
 
 #spain-content{
-    position: relative;
-    top: -100px;
+    text-align: center;
 }
 
 #spain-intro{
@@ -304,19 +293,16 @@ a:hover{
 .footer{
     font-family: 'Pacifico', cursive;
     font-size: 18px;
-    position:absolute;
-    top: 1170px;
-    left: 410px;
+    text-align: center;
     color: #d098f4;
-    width: 600px;
 }
 
-.icon img{
+/*.icon img{
      width: 50px;
      position: absolute;
      left:1200px;
      top:1280px;
-     margin-bottom: 20px;
+     margin-bottom: 20px;*/
 }
 
 
