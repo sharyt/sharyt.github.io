@@ -11,7 +11,6 @@
  width: 100%;
 }
 
-
 /* CSS for Nav */
 
 .nav{
@@ -45,14 +44,13 @@ a:hover{
 
 /* CSS for main map */
 
-.map{
-    text-align: center;
+.map{ text-align: center;
 }
 
-.pins{
-    float: none;
-    width: 100%;
+.map img{
+    position: relative;
 }
+
 
 /* CSS for the location of the pins */
 
@@ -60,7 +58,7 @@ a:hover{
     width: 27px;
     position:absolute;
     top: -420px;
-    left: 290px;
+    left: -230px;
     background-color: transparent;
 }
 
@@ -68,7 +66,7 @@ a:hover{
     width: 27px;
     position:absolute;
     top: -230px;
-    left: 470px;
+    left: -90px;
     background-color: transparent;
 }
 
@@ -76,7 +74,7 @@ a:hover{
     width: 27px;
     position:absolute;
     top: -380px;
-    left: 593px;
+    left: 3px;
     background-color: transparent;
 }
 
@@ -84,7 +82,7 @@ a:hover{
     width: 27px;
     position:absolute;
     top: -417px;
-    left: 603px;
+    left: -17px;
     background-color: transparent;
 }
 
@@ -92,7 +90,7 @@ a:hover{
     width: 27px;
     position:absolute;
     top: -440px;
-    left: 630px;
+    left: -20px;
     background-color: transparent;
 }
 
@@ -100,7 +98,7 @@ a:hover{
     width: 27px;
     position:absolute;
     top: -470px;
-    left: 615px;
+    left: -65px;
     background-color: transparent;
 }
 
@@ -108,7 +106,7 @@ a:hover{
     width: 27px;
     position:absolute;
     top: -490px;
-    left: 653px;
+    left: -63px;
     background-color: transparent;
 }
 
@@ -116,7 +114,7 @@ a:hover{
     width: 27px;
     position:absolute;
     top: -420px;
-    left: 670px;
+    left: -80px;
     background-color: transparent;
 }
 
@@ -124,7 +122,7 @@ a:hover{
     width: 27px;
     position:absolute;
     top: -410px;
-    left: 695px;
+    left: -83px;
     background-color: transparent;
 }
 
