@@ -3,12 +3,13 @@
 .header{
     font-family: 'Pacifico', cursive;
     font-size: 50px;
+     margin-top: -50px;
+     width: 100%;
+     display: inline-block;
 }
 
 #main-header{
  text-align: center;
- padding-bottom: 0;
- width: 100%;
 }
 
 /* CSS for Nav */
@@ -16,7 +17,9 @@
 .nav{
     font-family: 'Amatic SC', cursive;
     text-align: center;
-    padding: 0px;
+    display: inline-block;
+    margin-top: -50px;
+    width: 100%
 }
 
 li {
@@ -131,28 +134,108 @@ a:hover{
 /* US Country Page Styling */
 
 #us-header{
-    position:relative;
-    left:348px;
-    top:-70px;
-    width:700px;
+    text-align: center;
+}
+
+#us-content{
+    text-align: center;
+}
+
+#us-intro{
+    font-family: 'Amatic SC', cursive;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-right:5px;
+    margin-top: -15px;
+    width: 200px;
+    vertical-align: top;
+}
+
+#us-1{
+    width: 1007px;
+    height: 550px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-2{
+    width: 603px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom: 5px;
+    
+}
+
+#us-3{
+    width: 603px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-4{
+    width: 605px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-5{
+    width: 605px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-6{
+    width: 553px;
+    height: 651px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-7{
+    width: 653px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-8{
+    width: 1218px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
 }
 
 /* Brazil Country Page Styling */
 
 #brazil-header{
-    position:relative;
-    left:515px;
-    top:-70px;
-    width:700px;
+    text-align: center;
 }
 
 /* Morocco Country Page Styling */
 
 #morocco-header{
-    position:relative;
-    left:470px;
-    top:-70px;
-    width:700px;
+   text-align: center;
 }
 
 /* Spain Country Page Styling */
@@ -168,19 +251,21 @@ a:hover{
 #spain-intro{
     font-family: 'Amatic SC', cursive;
     display: inline-block;
-    margin-left: 0px;
-    margin-bottom: -10px;
+    margin-left: 20px;
+    margin-bottom: 0px;
     margin-right:5px;
+    margin-top: -15px;
     width: 200px;
+    vertical-align: top;
 }
 
 #barcelona-1{
     width: 501px;
     height: 415px;
     display: inline-block;
-    margin-left:20px;
+    margin-left:0px;
     margin-right:5px;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
 }
 
 #barcelona-2{
@@ -188,7 +273,7 @@ a:hover{
     display: inline-block;
     margin-left:0px;
     margin-right:20px;
-    margin-bottom: 0px;
+    margin-bottom: 5px;
     margin-top: 0px;
 }
 
@@ -242,46 +327,31 @@ a:hover{
 /* France Country Page Styling */
 
 #france-header{
-    position:relative;
-    left:515px;
-    top:-70px;
-    width:700px;
+    text-align: center;
 }
 
 /* UK Country Page Styling */
 
 #uk-header{
-    position:relative;
-    left:317px;
-    top:-70px;
-    width:700px;
+    text-align: center;
 }
 
 /* Denmark Country Page Styling */
 
 #denmark-header{
-    position:relative;
-    left:465px;
-    top:-70px;
-    width:700px;
+    text-align: center;
 }
 
 /* Italy Country Page Styling */
 
 #italy-header{
-    position:relative;
-    left:565px;
-    top:-70px;
-    width:700px;
+    text-align: center;
 }
 
 /* Greece Country Page Styling */
 
 #greece-header{
-    position:relative;
-    left:515px;
-    top:-70px;
-    width:700px;
+    text-align: center;
 }
 
 
