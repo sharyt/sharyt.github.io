@@ -238,6 +238,97 @@ a:hover{
    text-align: center;
 }
 
+#morocco-content{
+    text-align: center;
+}
+
+#morocco-intro{
+    font-family: 'Amatic SC', cursive;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-right:5px;
+    margin-top: -15px;
+    width: 200px;
+    vertical-align: top;
+}
+
+#morocco-1{
+    width: 1007px;
+    height: 600px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#morocco-2{
+    width: 436px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom: 5px;
+    
+}
+
+#morocco-3{
+    width: 770px;
+    height: 583.8px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#morocco-4{
+    width: 635px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#morocco-5{
+    width: 575px;
+    height: 474px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#morocco-6{
+    width: 583px;
+    height: 465px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#morocco-7{
+    width: 623px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#morocco-8{
+    width: 1218px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
 /* Spain Country Page Styling */
 
 #spain-header{
