@@ -330,6 +330,47 @@ a:hover{
     text-align: center;
 }
 
+#france-content{
+    text-align: center;
+}
+
+#france-intro{
+    font-family: 'Amatic SC', cursive;
+    display: inline-block;
+    margin-left: 20px;
+    margin-bottom: 0px;
+    margin-right:5px;
+    margin-top: -15px;
+    width: 200px;
+    vertical-align: top;
+}
+
+#france-1{
+    width: 551px;
+    height: 451px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:5px;
+    margin-bottom: 5px;
+}
+
+#france-2{
+    width: 451px;
+    display: inline-block;
+    margin-left:0px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#france-3{
+    width: 1220px;
+    display: inline-block;
+    margin-left:20px;
+    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
 /* UK Country Page Styling */
 
 #uk-header{
