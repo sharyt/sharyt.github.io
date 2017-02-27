@@ -335,76 +335,97 @@ a:hover{
 
 #spain-intro{
     font-family: 'Amatic SC', cursive;
+    font-size: 19px;
     display: inline-block;
-    margin-left: 20px;
     margin-bottom: 0px;
     margin-right:5px;
-    margin-top: -15px;
+    margin-top: -5px;
     width: 200px;
     vertical-align: top;
 }
 
 #barcelona-1{
-    width: 501px;
-    height: 415px;
+    width: 1000px;
     display: inline-block;
     margin-left:0px;
-    margin-right:5px;
     margin-bottom: 5px;
 }
 
 #barcelona-2{
-    width: 501px;
+    width: 600px;
+    height:475px;
     display: inline-block;
+    margin-right:5px;
     margin-left:0px;
-    margin-right:20px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #barcelona-3{
-    width: 1220px;
+    width: 600px;
+    height:475px;
     display: inline-block;
-    margin-left:20px;
-    margin-right:20px;
+    margin-right:5px;
+    margin-left:0px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #barcelona-4{
-    width: 605px;
-    height: 503px;
+    width: 600px;
     display: inline-block;
-    margin-left:20px;
     margin-right:5px;
+    margin-left:0px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #barcelona-5{
-    width: 605px;
+    width: 600px;
+    height:448.1px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #barcelona-6{
-    width: 680px;
+    width: 1205px;
     display: inline-block;
-    margin-left:20px;
-    margin-right:5px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #barcelona-7{
-    width: 531px;
-    height: 508px;
+    width: 600px;
+    height: 498.8px;
+    display: inline-block;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#barcelona-8{
+    width: 600px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#barcelona-9{
+    width: 675px;
+    display: inline-block;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#barcelona-10{
+    width: 525px;
+    height: 504.3px;
+    display: inline-block;
+    margin-left:0px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
