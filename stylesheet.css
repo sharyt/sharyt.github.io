@@ -244,29 +244,29 @@ a:hover{
 
 #morocco-intro{
     font-family: 'Amatic SC', cursive;
+    font-size: 19px;
     display: inline-block;
-    margin-left: 20px;
     margin-bottom: 0px;
     margin-right:5px;
-    margin-top: -15px;
+    margin-top: -5px;
     width: 200px;
     vertical-align: top;
 }
 
 #morocco-1{
-    width: 1007px;
-    height: 600px;
+    width: 1000px;
+    height: 676px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #morocco-2{
-    width: 436px;
+    width: 430px;
+    height: 583.8px;
     display: inline-block;
-    margin-left:20px;
+    /* margin-left:20px; */
     margin-right:5px;
     margin-bottom: 5px;
     
@@ -277,57 +277,51 @@ a:hover{
     height: 583.8px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #morocco-4{
-    width: 635px;
+    width: 630px;
     display: inline-block;
-    margin-left:20px;
     margin-right:5px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #morocco-5{
-    width: 575px;
-    height: 474px;
+    width: 570px;
+    height: 470.3px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#morocco-8{
+    width: 1205px;
+    display: inline-block;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #morocco-6{
-    width: 583px;
-    height: 465px;
+    width: 580px;
+    height: 462.8px;
     display: inline-block;
-    margin-left:20px;
     margin-right:5px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #morocco-7{
-    width: 623px;
+    width: 620px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
-#morocco-8{
-    width: 1218px;
-    display: inline-block;
-    margin-left:20px;
-    margin-right:20px;
-    margin-bottom: 5px;
-    margin-top: 0px;
-}
 
 /* Spain Country Page Styling */
 
