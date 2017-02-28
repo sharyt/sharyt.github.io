@@ -143,6 +143,7 @@ a:hover{
 
 #us-intro{
     font-family: 'Amatic SC', cursive;
+    font-size: 19px;
     display: inline-block;
     margin-bottom: 0px;
     margin-right:5px;
@@ -176,15 +177,15 @@ a:hover{
 }
 
 #us-4{
-    width: 600px;
+    width: 520px;
+    height: 510px;
     display: inline-block;
     margin-right:5px;
     margin-bottom: 5px;
-    
 }
 
 #us-5{
-    width: 600px;
+    width: 680px;
     display: inline-block;
     margin-left:0px;
     margin-bottom: 5px;
@@ -196,7 +197,7 @@ a:hover{
     display: inline-block;
     margin-right:5px;
     margin-bottom: 5px;
-    
+    margin-top: 0px;
 }
 
 #us-7{
@@ -208,22 +209,6 @@ a:hover{
 }
 
 #us-8{
-    width: 600px;
-    display: inline-block;
-    margin-right:5px;
-    margin-bottom: 5px;
-    margin-top: 0px;
-}
-
-#us-9{
-    width: 600px;
-    display: inline-block;
-    margin-left:0px;
-    margin-bottom: 5px;
-    margin-top: 0px;
-}
-
-#us-10{
     width: 550px;
     height: 651px;
     display: inline-block;
@@ -232,7 +217,7 @@ a:hover{
     margin-top: 0px;
 }
 
-#us-11{
+#us-9{
     width: 650px;
     display: inline-block;
     margin-left:0px;
@@ -240,7 +225,7 @@ a:hover{
     margin-top: 0px;
 }
 
-#us-12{
+#us-10{
     width: 600px;
     display: inline-block;
     margin-right:5px;
@@ -248,7 +233,7 @@ a:hover{
     margin-top: 0px;
 }
 
-#us-13{
+#us-11{
     width: 600px;
     display: inline-block;
     margin-left:0px;
@@ -336,8 +321,7 @@ a:hover{
 }
 
 #morocco-6{
-    width: 580px;
-    height: 462.8px;
+    width: 660px;
     display: inline-block;
     margin-right:5px;
     margin-bottom: 5px;
@@ -345,7 +329,8 @@ a:hover{
 }
 
 #morocco-7{
-    width: 620px;
+    width: 540px;
+    height: 492.9px;
     display: inline-block;
     margin-left:0px;
     margin-bottom: 5px;
