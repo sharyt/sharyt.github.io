@@ -144,84 +144,114 @@ a:hover{
 #us-intro{
     font-family: 'Amatic SC', cursive;
     display: inline-block;
-    margin-left: 20px;
     margin-bottom: 0px;
     margin-right:5px;
-    margin-top: -15px;
+    margin-top: -5px;
     width: 200px;
     vertical-align: top;
 }
 
 #us-1{
-    width: 1007px;
-    height: 550px;
+    width: 1000px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #us-2{
-    width: 603px;
+    width: 600px;
     display: inline-block;
-    margin-left:20px;
     margin-right:5px;
     margin-bottom: 5px;
     
 }
 
 #us-3{
-    width: 603px;
+    width: 600px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #us-4{
-    width: 605px;
+    width: 600px;
     display: inline-block;
-    margin-left:20px;
     margin-right:5px;
     margin-bottom: 5px;
-    margin-top: 0px;
+    
 }
 
 #us-5{
-    width: 605px;
+    width: 600px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #us-6{
-    width: 553px;
-    height: 651px;
+    width: 600px;
     display: inline-block;
-    margin-left:20px;
     margin-right:5px;
     margin-bottom: 5px;
-    margin-top: 0px;
+    
 }
 
 #us-7{
-    width: 653px;
+    width: 600px;
     display: inline-block;
     margin-left:0px;
-    margin-right:20px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
 
 #us-8{
-    width: 1218px;
+    width: 600px;
     display: inline-block;
-    margin-left:20px;
-    margin-right:20px;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-9{
+    width: 600px;
+    display: inline-block;
+    margin-left:0px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-10{
+    width: 550px;
+    height: 651px;
+    display: inline-block;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-11{
+    width: 650px;
+    display: inline-block;
+    margin-left:0px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-12{
+    width: 600px;
+    display: inline-block;
+    margin-right:5px;
+    margin-bottom: 5px;
+    margin-top: 0px;
+}
+
+#us-13{
+    width: 600px;
+    display: inline-block;
+    margin-left:0px;
     margin-bottom: 5px;
     margin-top: 0px;
 }
